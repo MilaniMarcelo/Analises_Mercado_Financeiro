@@ -5,3 +5,7 @@
 <b><i>*Utiliza a Base de Dados da Investing.com - Financial Markets Worldwide. https://www.investing.com/</i></b>
 <br><br>
 <b><i>*NÃO contempla ETFs.</i></b>
+<br><br>
+<b><i>*A lista gerada pode ser exportada em vários formatos. Por padrão está em Excel (.xlsx).</i></b>
+<br><br>
+<b><i>*Principais Bibliotecas: pandas, investpy e yfinance.</i></b>
